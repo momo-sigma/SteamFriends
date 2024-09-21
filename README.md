@@ -243,3 +243,4 @@
 | ![](https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg) | Do you believe in fate?   | [76561199169381589](https://steamcommunity.com/profiles/76561199169381589/) | ✅           | 2022-04-14 09:16:17 |          |
 | ![](https://avatars.steamstatic.com/df1953bca8043a8c944dba2ba5bf2233c322ad98.jpg) | Obliviøn                  | [76561199211416311](https://steamcommunity.com/profiles/76561199211416311/) | ✅           | 2023-06-29 15:41:04 |          |
 | ![](https://avatars.steamstatic.com/e037aef42325e6f71eb3e25e5dbe8624adcb27df.jpg) | tzww                      | [76561199304206611](https://steamcommunity.com/profiles/76561199304206611/) | ✅           | 2022-07-13 04:28:59 |          |
+| ![](https://avatars.steamstatic.com/5a541f88eb76ac69d0e4bbaf815e7e475c125483.jpg) | Kaz                       | [76561199010252681](https://steamcommunity.com/profiles/76561199010252681/) | ✅           | 2024-09-20 18:31:36 |          |
